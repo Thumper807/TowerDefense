@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream:ProjectSettings/ProjectVersion.txt
+m_EditorVersion: 5.4.2f1
+=======
+m_EditorVersion: 5.4.2f2
+>>>>>>> Stashed changes:TowerDefense/ProjectSettings/ProjectVersion.txt
+m_StandardAssetsVersion: 0
